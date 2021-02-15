@@ -23,7 +23,7 @@
             </select>
         </div>
     </div>
-    <button type="sumbit" name="submit" class="btn btn-info">Proses</button>
+    <button type="sumbit" name="submit" class="btn btn-info">Process</button>
 </form>
 
 <?php
